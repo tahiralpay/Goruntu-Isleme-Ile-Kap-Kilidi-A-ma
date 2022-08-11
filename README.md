@@ -1,1 +1,1 @@
-# Goruntu-Isleme-Ile-Kap-Kilidi-A-ma
+# Goruntu-Isleme-Ile-Kap-Kilidi-Acma
