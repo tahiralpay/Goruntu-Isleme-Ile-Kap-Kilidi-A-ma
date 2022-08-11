@@ -1,0 +1,1 @@
+# Goruntu-Isleme-Ile-Kap-Kilidi-A-ma
