@@ -1,4 +1,5 @@
-# Goruntu-Isleme-Ile-Kap-Kilidi-Acma
+# Goruntu-Isleme-Ile-Kapi-Kilidi-Acma
+Çok fonksiyonlu güvenlik sistemi projemin devamı niteliğinde olan bu proje için öncelikle arduino kodunu arduinoya yükleyip daha sonra pythonda arduinonun bağlı olduğu port kodda düzeltip kodu çalıştırmalıyız.
 
 ## Arduino Kütüphanesi
 `https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/`                                      
